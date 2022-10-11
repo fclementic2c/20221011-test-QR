@@ -1,0 +1,4 @@
+[submodule "camptocamp/apps_odoo"]
+	path = camptocamp/apps_odoo
+	url = git@github.com:camptocamp/apps_odoo.git
+	branch = 15.0
